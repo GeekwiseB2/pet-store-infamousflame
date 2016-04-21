@@ -1,0 +1,20 @@
+
+.logo{
+  max-width: 90px;
+}
+.logo_text{
+  font-family: 'Pacifico', cursive;
+  display: inline;
+  color: orange;
+}
+.header{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background-image:url(../img/hero.jpg);
+  height: 600px;
+  background-position: center;
+}
+.header h1{
+  font-size: 30px;
+  font-weight: 300;
+}
