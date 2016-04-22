@@ -3,7 +3,7 @@
   max-width: 90px;
 }
 .logo_text{
-  font-family: 'Pacifico', cursive;
+  font-family: 'Satisfy', cursive;
   display: inline;
   color: orange;
 }
@@ -13,8 +13,59 @@
   background-image:url(../img/hero.jpg);
   height: 600px;
   background-position: center;
+  background-size: cover;
+  font-weight: 300;
 }
 .header h1{
   font-size: 30px;
   font-weight: 300;
+}
+.nav{
+  margin-top: 20px;
+}
+.services{
+  text-align: center;
+}
+.blue{
+  color:#7ABAE9;
+}
+.featured img{
+  width:100%;
+}
+.featured .btn{
+  background-color: #5ABFDD;
+  border: 0px solid #5ABFDD;
+}
+.item{
+  border-radius: 7.5px;
+}
+.item img{
+  padding: 10px;
+}
+.thumbnail{
+  background-color: #EDF1F4;
+}
+.item .btn{
+  font-size: 15px 20px;
+}
+.item{
+  padding: 5px;
+}
+footer{
+  background-color: #231F20;
+  padding: 20px;
+  color: #B1B1B2;
+}
+footer a{
+  color: inherit;
+}
+footer a:hover{
+  color: orange;
+  text-decoration: none;
+}
+.border{
+  border-left: 1px solid #2F2E2E;
+}
+footer p{
+  color: #393738;
 }
