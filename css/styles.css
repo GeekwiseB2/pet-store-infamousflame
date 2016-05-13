@@ -3,7 +3,11 @@
   max-width: 90px;
 }
 .logo_text{
+<<<<<<< HEAD
   font-family: 'Satisfy', cursive;
+=======
+  font-family: 'Pacifico', cursive;
+>>>>>>> e68dc20944cf2532cfa134be36cce992dcde71da
   display: inline;
   color: orange;
 }
@@ -13,13 +17,17 @@
   background-image:url(../img/hero.jpg);
   height: 600px;
   background-position: center;
+<<<<<<< HEAD
   background-size: cover;
   font-weight: 300;
+=======
+>>>>>>> e68dc20944cf2532cfa134be36cce992dcde71da
 }
 .header h1{
   font-size: 30px;
   font-weight: 300;
 }
+<<<<<<< HEAD
 .nav{
   margin-top: 20px;
 }
@@ -70,3 +78,5 @@ footer p{
 .border{
   border-left: 1px solid #2F2E2E;
 }
+=======
+>>>>>>> e68dc20944cf2532cfa134be36cce992dcde71da
